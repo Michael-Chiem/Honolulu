@@ -25,8 +25,8 @@ export default function ContactPage() {
       <div className="mt-4">
         <h3>Contact Information:</h3>
         <p>Email: <a href="mailto:michaelchiem@hotmail.com">michaelchiem@hotmail.com</a></p>
-        <p>Github: <a href="https://github.com/yourusername">github.com/yourusername</a></p>
-        <p>Website: <a href="https://yourwebsite.com">yourwebsite.com</a></p>
+        <p>Github: <a href="https://github.com/yourusername">github.com/michaelchiem</a></p>
+        <p>Website: <a href="https://www.ccicom.com">My Web Site</a></p>
       </div>
     </div>
   );

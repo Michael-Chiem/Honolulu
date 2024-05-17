@@ -4,7 +4,8 @@ import { Link } from 'react-router-dom';
 import Profile from '../components/UI/ProfileSections/ProfileTeaser';
 import ListItem from '../components/UI/ListItem';
 import image1 from '../images/me.jpg'
-
+import image2 from '../images/Dadjokes.jpg'
+import image3 from '../images/Production.jpg'
 
 
 
@@ -17,23 +18,23 @@ export default function HomePage() {
     {
       id: 1,
       projectName: "Project One",
-      description: "This project uses Html and CSS",
-      github: "https://www.github.com",
-      deployedLink: "https://www.google.com",
-      backgroundImage: image1
+      description: "This project uses HTML, API and CSS",
+      github: "https://github.com/Michael-Chiem/P1-DadJokeAPI-EMAILJS/tree/main",
+      deployedLink: "https://michael-chiem.github.io/P1-DadJokeAPI-EMAILJS/",
+      backgroundImage: image2
     },
     {
       id: 2,
       projectName: "Project Two",
-      description: "This project uses Js",
-      github: "https://www.github.com",
-      deployedLink: "https://www.google.com",
-      // backgroundImage: image1
+      description: "This project uses MySQL, Express, HandleBars, NodeJS",
+      github: "https://github.com/Michael-Chiem/productiontracker",
+      deployedLink: "https://timetracker3000-defb31293696.herokuapp.com/",
+      backgroundImage: image3
     },
     {
       id: 3,
       projectName: "Project Three",
-      description: "This project uses Node",
+      description: "In Progress",
       github: "https://www.github.com",
       deployedLink: "https://www.google.com",
       // backgroundImage: image1
