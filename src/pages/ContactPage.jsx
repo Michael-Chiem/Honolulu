@@ -12,7 +12,7 @@ export default function ContactPage() {
   // Return statement with JSX content
   return (
     <div className="container pt-4">
-      <h1>Contact Me Through this Form</h1>
+      <h1>Contact Me Through This Form</h1>
       <form>
         <div className="form-group">
           <label htmlFor="request">Your Request:</label>
